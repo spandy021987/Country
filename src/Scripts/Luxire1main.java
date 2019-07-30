@@ -19,6 +19,8 @@ public class Luxire1main extends Generic_Class  {
 		l1.click1();
 		l1.click2();
 		l1.click3();
+		l1.click5();
+		l2.click8();
 		
 		
 		
